@@ -23,8 +23,6 @@ CaptureGem can be [found here](https://www.capturegem.com).
 The app automatically generates thumbnail grids for all your recordings so you can quickly preview the content. In the Review Tab, you can see these. Additionally, you can
 filter your saved recordings by model and watch past recordings.
 
-<img width="500" src="https://github.com/vrcamrecordings/MyFreeCams-recorder/assets/155075920/7149bf70-1a1f-4137-980f-9876f4b22d8d" alt="MyFreeCams Recording Review Feature">
-
 ## Further Details
 
 You can read [more here](https://www.capturegem.com) about CaptureGem.
