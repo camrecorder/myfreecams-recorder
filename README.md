@@ -5,7 +5,7 @@ The app is supported on Windows and macOS.
 
 CaptureGem can be [found here](https://www.capturegem.com).
 
-![Recording with CaptureGem](https://github.com/vrcamrecordings/MyFreeCams-recorder/assets/155075920/ee591b43-5de7-4d9e-8753-a1029bd90640)
+![Recording with CaptureGem](https://github.com/vrcamrecordings/cam4-recorder/assets/155075920/ee591b43-5de7-4d9e-8753-a1029bd90640)
 
 ## Features
 
